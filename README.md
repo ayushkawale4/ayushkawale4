@@ -21,9 +21,8 @@ Here are a few of my notable projects:
    - **Technologies:** List of technologies used.
 
 ## 📫 How to Reach Me
-- **Email:** [Your Email](mailto:ayushhhkawale@gmail.com)
+- **Email:** [Your Email](ayushhhkawale@gmail.com)
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/ayushkawale/)
-- **Portfolio:** [Your Portfolio](https://yourportfolio.com)
 
 ## 🌱 Currently Learning
 - Advanced Machine Learning Algorithms
