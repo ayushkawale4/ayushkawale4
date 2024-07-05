@@ -1,4 +1,4 @@
-![Header Image](https://via.placeholder.com/1500x500.png?text=Welcome+to+My+GitHub+Profile)
+![Header Image]("C:\Users\ayush\Downloads\1712926146710.jpg")
 
 # Hi there, I'm Ayush! 👋
 
