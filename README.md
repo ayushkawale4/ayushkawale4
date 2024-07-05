@@ -28,12 +28,5 @@ Here are a few of my notable projects:
 - Big Data Technologies
 
 
-## 🔗 Connect with Me
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-Profile-blue" alt="Twitter"></a>
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-Profile-blue" alt="Blog"></a>
-</p>
-
 ![Footer Image](https://via.placeholder.com/1500x500.png?text=Thanks+for+visiting!)
 
