@@ -1,5 +1,3 @@
-![Header Image]("C:\Users\ayush\Downloads\1712926146710.jpg")
-
 # Hi there, I'm Ayush! 👋
 
 I'm a data enthusiast with a passion for uncovering insights through data analysis and machine learning. Here’s a bit about me and what I do:
