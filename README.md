@@ -1,6 +1,6 @@
 ![Header Image](https://via.placeholder.com/1500x500.png?text=Welcome+to+My+GitHub+Profile)
 
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ayush! 👋
 
 I'm a data enthusiast with a passion for uncovering insights through data analysis and machine learning. Here’s a bit about me and what I do:
 
