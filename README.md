@@ -12,16 +12,15 @@ I'm a data enthusiast with a passion for uncovering insights through data analys
 ## 📊 Projects
 Here are a few of my notable projects:
 
-1. **[Project Name](#)**
-   - **Description:** Brief description of the project.
-   - **Technologies:** List of technologies used.
+1. **[project-python-powerbi-terrorismdata](#)**
+   - **Description:** Global Terrorism Analysis Python Project Description The Global Terrorism Database (GTD) – is an open-source database including information on terrorist attacks around the world from 1970 through 2017. We will select a subset of the data suitable for our analysis and analyze terror activity across the global level as well as for India. We will use Python in Jupyter Notebooks for importing, preparing and cleaning the data. We will also perform Exploratory Data Analysis in Python and then visualize the data exported from python in Power BI to gather insights. Tools Used Python, Jupyter Notebooks, PowerBI.
+   - **Technologies:** Power BI, Python, Jupyter NoteBook.
 
-2. **[Project Name](#)**
-   - **Description:** Brief description of the project.
-   - **Technologies:** List of technologies used.
+2. **[SQL-project-pizzeria-data](#)**
+   - **Description:** Analyzing Data about a Pizzeria Finding insights about Orders,Customers and Pizza.
+   - **Technologies:** SQL.
 
 ## 📫 How to Reach Me
-- **Email:** [Your Email](ayushhhkawale@gmail.com)
 - **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/ayushkawale/)
 
 ## 🌱 Currently Learning
