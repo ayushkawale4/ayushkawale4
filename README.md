@@ -17,7 +17,9 @@ Here are a few of my notable projects:
    - **Technologies:** Power BI, Python, Jupyter NoteBook.
 
 2. **[SQL-project-pizzeria-data](https://github.com/ayushkawale4/SQL-project-pizzeria-data)**
-   - **Description:** Analyzing Data about a Pizzeria Finding insights about Orders,Customers and Pizza.
+   - **Description:** Analyzed pizza ordering data using SQL queries to derive actionable insights such as distribution
+of orders by hour, category-wise distribution of pizzas, average daily orders, revenue analysis,
+and identifying top-selling pizza types..
    - **Technologies:** SQL.
 
 ## 📫 How to Reach Me
