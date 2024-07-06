@@ -23,10 +23,8 @@ and identifying top-selling pizza types..
    - **Technologies:** SQL.
   
 3. **[power-bi-electoral-bond-project](https://github.com/ayushkawale4/power-bi-electoral-bond-project)**
-   - **Description:** Analyzed pizza ordering data using SQL queries to derive actionable insights such as distribution
-of orders by hour, category-wise distribution of pizzas, average daily orders, revenue analysis,
-and identifying top-selling pizza types..
-   - **Technologies:** SQL.
+   - **Description:** These insights provide a comprehensive understanding of the electoral bond activity, highlighting the major recipients and purchasers, popular bond denominations, and key trends over time...
+   - **Technologies:** Power BI.
 
 ## 📫 How to Reach Me
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/ayushkawale/)
