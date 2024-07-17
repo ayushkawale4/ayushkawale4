@@ -5,7 +5,7 @@ I'm a data enthusiast with a passion for uncovering insights through data analys
 ## 🛠️ Skills & Technologies
 - **Programming Languages:** Python
 - **Data Visualization:** Power BI, Excel
-- **Machine Learning:** Scikit-Learn, TensorFlow
+- **Machine Learning:** Scikit-Learn
 - **Databases:** SQL, Snowflake
 - **Other Tools:** Excel
 
